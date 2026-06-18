@@ -8,8 +8,7 @@
 <h2></h2>
 <br />
 <br />
-<h4> Oscar Olmos I.E. here, welcoming you to my personal portfolio repo.</h4>
-<h4> I'm a passionate Azure Cloud Developer.</h4>
+<h4> Oscar Olmos I.E. here, welcoming you to my personal portfolio repo. I'm a passionate Azure Cloud Developer.</h4>
 
 <br />
 
@@ -23,12 +22,12 @@
 <br />
 <br />
 
-<h4>Certifications of which I am proud</h4>
+### Certifications of which I am proud:
 
 <br />
 
-- <img style="padding:5px;" align="center" alt="Azure" width="10px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg"> AZ-204 — Azure Developer Associate
-- <img style="padding:5px;" align="center" alt="GitHubTerminal" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"> GH-200 — GitHub Actions
+- <img style="padding:5px;" align="center" alt="Azure" width="16px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg"> AZ-204 — Azure Developer Associate
+- <img style="padding:5px;" align="center" alt="GitHubTerminal" width="16px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"> GH-200 — GitHub Actions
 
 <br />
 <br />

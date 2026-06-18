@@ -26,8 +26,8 @@
 
 <br />
 
-- <img style="padding:5px;" align="center" alt="Azure" width="16px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg"> AZ-204 — Azure Developer Associate
-- <img style="padding:5px;" align="center" alt="GitHubTerminal" width="16px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"> GH-200 — GitHub Actions
+- <img align="top" alt="Azure" width="22px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg"> AZ-204 — Azure Developer Associate
+- <img align="top" alt="GithubActions" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg"> GH-200 — GitHub Actions
 
 <br />
 <br />
